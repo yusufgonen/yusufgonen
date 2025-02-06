@@ -1,6 +1,3 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Java.
-- 💬 Ask me about anything.
-- 📫 How to reach me: yusuf.gonen@ug.bilkent.edu.tr
-- 😄 Pronouns: he/him
+My Name is Ümit Yusuf Gönen. I am a freshman Computer Science student at Bilkent University.
